@@ -1,0 +1,115 @@
+{
+  "projectName": "night-owl.nvim",
+  "projectOwner": "oxfist",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "wrapperTemplate": "\n<table>\n  <tbody><%= bodyContent %>  </tbody>\n<%= tableFooterContent %></table>\n\n",
+  "linkToUsage": false,
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "oxfist",
+      "name": "Andrés Quilodrán",
+      "avatar_url": "https://avatars.githubusercontent.com/u/934679?v=4",
+      "profile": "https://github.com/oxfist",
+      "contributions": [
+        "maintenance",
+        "code",
+        "bug",
+        "doc"
+      ]
+    },
+    {
+      "login": "dmnkgrc",
+      "name": "Dominik Garcia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4812676?v=4",
+      "profile": "https://github.com/dmnkgrc",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "nanyaDev",
+      "name": "Rish",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40901142?v=4",
+      "profile": "https://github.com/nanyaDev",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "lampewebdev",
+      "name": "Michael Lazarski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44268468?v=4",
+      "profile": "https://www.lampeweb.de",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "denisw",
+      "name": "Denis Washington",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1032624?v=4",
+      "profile": "https://denisw.de",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "kmlopez-hhl",
+      "name": "kmlopez-hhl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132054595?v=4",
+      "profile": "https://github.com/kmlopez-hhl",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Benson9954029",
+      "name": "Benson9954029",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28132352?v=4",
+      "profile": "https://github.com/Benson9954029",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "gnoeyp",
+      "name": "Silver Hong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62169778?v=4",
+      "profile": "https://github.com/gnoeyp",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "sebvilhelm",
+      "name": "Sebastian Vilhelm Juhl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25344971?v=4",
+      "profile": "https://github.com/sebvilhelm",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "jdsprink91",
+      "name": "Jason Sprinkle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19441026?v=4",
+      "profile": "https://github.com/jdsprink91",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular"
+}
